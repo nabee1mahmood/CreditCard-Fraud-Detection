@@ -1,3 +1,4 @@
+data/creditcard.csv filter=lfs diff=lfs merge=lfs -text
 /data/creditcard.csv filter=lfs diff=lfs merge=lfs -text
 /notebooks/.ipynb_checkpoints/Credit[[:space:]]Card[[:space:]]Fraud[[:space:]]Detection[[:space:]]Project-checkpoint.ipynb filter=lfs diff=lfs merge=lfs -text
 /notebooks/Credit[[:space:]]Card[[:space:]]Fraud[[:space:]]Detection[[:space:]]Project.ipynb filter=lfs diff=lfs merge=lfs -text
