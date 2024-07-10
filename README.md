@@ -35,8 +35,3 @@ The project aims to enhance security measures for credit card transactions by ac
 - Conda (for environment management)
 
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> a55d86ce687974cfa88037448a4913289e72e6e4
