@@ -17,10 +17,6 @@ The project aims to enhance security measures for credit card transactions by ac
 - ROC curve analysis using matplotlib.
 
 ### Technologies Used
-<<<<<<< HEAD
-### Technologies Used
-=======
->>>>>>> a55d86ce687974cfa88037448a4913289e72e6e4
 - Python
 - Scikit-learn
 - Pandas
