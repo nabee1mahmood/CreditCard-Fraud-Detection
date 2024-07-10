@@ -7,10 +7,7 @@ This project focuses on detecting fraudulent transactions in credit card data us
 - Features
 - Technologies Used
 
-<<<<<<< HEAD
 
-=======
->>>>>>> a55d86ce687974cfa88037448a4913289e72e6e4
 ### Introduction
 The project aims to enhance security measures for credit card transactions by accurately identifying fraudulent activities. By leveraging machine learning algorithms, it analyzes transactional patterns to distinguish between legitimate and fraudulent transactions.
 
