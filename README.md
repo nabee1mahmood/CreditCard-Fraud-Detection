@@ -1,4 +1,4 @@
-# nabeels-creditcard-fraud-detection-project
+# Credit Card Fraud Detection Project
 
 This project focuses on detecting fraudulent transactions in credit card data using machine learning techniques.
 
@@ -16,7 +16,7 @@ The project aims to enhance security measures for credit card transactions by ac
 - Evaluation metrics: precision, recall, accuracy, and F1-score.
 - ROC curve analysis using matplotlib.
 
-### Technologies Used
+### Technologies
 - Python
 - Scikit-learn
 - Pandas
